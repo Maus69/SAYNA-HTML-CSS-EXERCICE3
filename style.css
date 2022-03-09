@@ -1,0 +1,27 @@
+body, pre{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header, #avatar{
+    background-color: #27242b;
+}
+
+#getItNow, #newSoftware, #socialMedia, #johnDo{
+    color: #3d9f96;
+}
+
+.btn{
+    background-color: #3d9f96;
+}
+
+#awesome{
+    background-image: url('img/map_bg.png');
+}
+
+#screenshots, #footer{
+    background-color: #f7f7f7;
+}
+
+#gris{
+    color: #ababab;
+}
